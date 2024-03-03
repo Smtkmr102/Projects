@@ -7,3 +7,5 @@
 The Aerofit Case Study challenges participants to explore the intricacies of customer preferences within the fitness equipment market
 ## Walmart
 Unlocking customer spending secrets, Walmart's case study delves into Black Friday transactions. Navigate uncertainty, spot outliers, and compute confidence intervals for male and female shoppers. From marital status to age, dissecting patterns shapes actionable insights.
+## Yulu
+Navigating Yulu's demand dip, this case study explores factors impacting shared electric cycle requests.
